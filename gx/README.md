@@ -1,6 +1,6 @@
 # Scripts
 
-## Debian pass
+## Debian failed for https://github.com/c-sky/forum/issues/72
 
 ```
 docker build --build-arg rootpassword=newpassword -t "xuefengedu/c-sky:debian" debian
