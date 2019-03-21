@@ -1,4 +1,4 @@
-# csky
+# csky (I have gave up to build it, so many errors..., will chose other board for my diy laptop)
 
 # issue 1
 ```
